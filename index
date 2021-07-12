@@ -1,0 +1,118 @@
+<html lang = "ru">
+	<head>
+		<title>Абра-кадабра</title>
+		<link rel = "stylesheet" href= "css/style.css">
+		<link rel = "stylesheet" href= "css/font-awesome.min.css">
+	</head>
+	<body>
+		<header>
+			<div class = " block_header left">
+				<img src = "logo.png" width = "200px">
+			</div>
+			<div class = " block_header right">
+				<p></p>
+				<span >По всем вопросам обращаться</span>
+				<br>
+				<a href= "tel:+78005553535" id= "tel" >8 (800) 555-35-35</a>
+			</div>
+		</header>
+		
+		<nav>
+			 <ul type = "none">
+				<li class = "block1">Главная</li>
+				<li class = "block2">Доставка</li>
+				<li class = "block3">Оплата</li>
+				<li class = "block4">Акции</li>
+				<li class = "block5">Контакты</li>
+			 </ul>
+		</nav>
+		
+		<div id = "context"> 
+			 <div id = "sidebar">
+				<ul type = "none">
+					 <li class = "sidebar_block">Ваша услуга 1</li>
+					 <li class = "sidebar_block">Ваша услуга 2</li>
+					 <li class = "sidebar_block">Ваша услуга 3</li>
+					 <li class = "sidebar_block">Ваша услуга 4</li>
+					 <li class = "sidebar_block">Ваша услуга 5</li>
+				</ul>
+			 </div>
+			 
+			 <div id = "content">
+
+				 <img id = "image" src = "img.png">
+				 
+				 <div id = "content_block_1" > 
+					 <div  class = "content_block_2" id = "left_block" > Это какой - то непонятный текст</div>
+					 <div  class = "content_block_2" id = "right_block" > А это другой текст</div>
+				 </div>
+				 
+				 <p id = "content_text" >Выбирая наш шаблон, Вы получаете: </p>
+				 
+				 <div id = "content_block_2"> 
+					 <div  class = "content_block_3" id = "content_block_3_1" >
+						<i class ="fa fa-smile-o fa_block_3" aria-hidden="true"></i>
+						<p> hvdsfjgdkfbm;ldfb</p>
+					 </div>
+					 
+					 <div  class = "content_block_3" id = "content_block_3_2" >
+						<i class="fa fa-youtube fa_block_3" aria-hidden="true"></i>
+						<p>sdb\hrhueadpigjbdl;f,b</p>
+					 </div>
+					 
+					 <div  class = "content_block_3" id = "content_block_3_3" >
+						<i class="fa fa-glass fa_block_3" aria-hidden="true"></i>
+						<p>fhrejodhgpkfsmd'dhtrfj</p>
+					 </div>
+					 
+				 </div>
+				 
+			 </div> 
+			 
+		</div>
+		<footer>
+			<div class = "footer">
+				<button class = "button" >
+					<a href = "https://vk.com/">
+					<i class="fa fa-vk" aria-hidden="true" ></i>
+					</a>
+				</button>
+				<button class = "button" >
+					<a href = "https://ok.ru/am/">
+					<i class="fa fa-odnoklassniki" aria-hidden="true" ></i>
+					</a>
+				</button>
+				<button class = "button">
+					<a href = "https://ru-ru.facebook.com/">
+					<i class="fa fa-facebook" aria-hidden="true" ></i>
+					</a>
+				</button>
+				<button class = "button" >
+					<a href = "https://twitter.com/">
+					<i class="fa fa-twitter" aria-hidden="true"></i>
+					</a>
+				</button>
+				<button class = "button">
+					<a href = "https://myaccount.google.com/intro/signing-in-to-google">
+					<i class="fa fa-google-plus" aria-hidden="true" ></i>
+					</a>
+				</button>
+				
+				<button id = "plus" class = "button">
+					<i class="fa fa-plus" aria-hidden="true"></i>
+				</button>
+				
+			</div>
+			<div class = "footer">
+				 <a href = "https://yandex.ru/images/search?from=tabbar&text=%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%20%D1%81%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&pos=7&img_url=https%3A%2F%2Fgalior-market.com%2Fimages%2Fboard%2F48cd0e13780ebaece81b4db9bae5ed5d.jpg&rpt=simage&lr=10837">ntrjgfdjbhfj</a>
+			</div>
+			<div class = "footer txt">
+				<span>jgidsgoskgprsf</span>
+			</div>
+		</footer>
+		
+	</body>
+	
+	
+	
+</html>
